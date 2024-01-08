@@ -47,11 +47,6 @@ const SkillsData = [
     }
 ]
 
-
-
-
-
-
   return (
     <div className='SkillsHold'>
         <div className="SkillsHeader">
