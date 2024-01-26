@@ -45,7 +45,7 @@ const Skills = () => {
             </div>
             <div className=' shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-32 mx-auto' src={Mysql} alt='html'/>
-                <p>Redux</p>
+                <p>MySql</p>
             </div>
             <div className=' shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-32 mx-auto' src={GITHUB} alt='html'/>
@@ -53,7 +53,7 @@ const Skills = () => {
             </div>
             <div className=' shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-32 mx-auto' src={Express} alt='html'/>
-                <p>Expres </p>
+                <p>Express</p>
             </div>
           </div>
         </motion.div>
